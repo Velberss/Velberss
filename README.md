@@ -1,4 +1,3 @@
-<h1 align="left">Olá! Eu sou Velber 👋</h1>
 
 <h1 align="left">Olá! Eu sou Velber 👋</h1>
 
@@ -18,7 +17,7 @@
 
 <img align="right" height="135" src="https://i.pinimg.com/originals/ad/29/09/ad290956f88d977fb4f3854f5697af05.gif"  />
 
-###
+
 
 <h4 align="left">•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 
