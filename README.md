@@ -15,17 +15,19 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/ad/29/09/ad290956f88d977fb4f3854f5697af05.gif"  />
+<img align="right" height="135" src="https://i.pinimg.com/originals/ad/29/09/ad290956f88d977fb4f3854f5697af05.gif"  />
 
-
+###
 
 <h4 align="left">•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 
+###
 
+<br clear="both">
 
 <h2 align="left">Skills</h2>
 
-
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -47,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -62,6 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velberss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
               
 <div align="center">
   <a href="https://open.spotify.com/user/31474tr25knmi5avrfatcb7vcchu">
