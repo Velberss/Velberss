@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31474tr25knmi5avrfatcb7vcchu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31474tr25knmi5avrfatcb7vcchu"  />
   </a>
