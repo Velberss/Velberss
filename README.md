@@ -1,5 +1,5 @@
 <div style = "display : inlineblock" align="center">
- <h3>  Bem vindo(a) ao meu GitHub </h3>
+ <h1>  Bem vindo(a) ao meu GitHub </h1>
 </div>
 
 
