@@ -1,7 +1,7 @@
+<div style = "display : inlineblock" align="center">
  <h3>  Bem vindo(a) ao meu GitHub </h3>
-h3.{
-align="center"
-}
+</div>
+
 
 <div style = "display : inlineblock" align="center">
   <h3> Skills:</h3> 
