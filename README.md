@@ -21,7 +21,7 @@
 
 <h4 align="left">•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 
-###
+
 
 <h2 align="left">Skills</h2>
 
