@@ -10,6 +10,8 @@
 
 <h4 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens de programação e frameworks, e adoro resolver problemas complexos com soluções elegantes e eficientes.</h4>
 
+<h2 align="left">Sobre mim </h2>
+
 ###
 
 <br clear="both">
@@ -55,11 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velberss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Velberss/Velberss/output/snake.svg" alt="Snake animation" />
-
-###
               
 <div align="center">
   <a href="https://open.spotify.com/user/31474tr25knmi5avrfatcb7vcchu">
