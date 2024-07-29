@@ -1,5 +1,17 @@
 <h1 align="left">Olá! Eu sou Velber 👋</h1>
 
+<h1 align="left">Olá! Eu sou Velber 👋</h1>
+
+###
+
+<h4 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens de programação e frameworks, e adoro resolver problemas complexos com soluções elegantes e eficientes.</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Sobre mim 🖥📫</h2>
+
 ###
 
 <br clear="both">
@@ -8,14 +20,9 @@
 
 ###
 
-<h4 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens de programação e frameworks, e adoro resolver problemas complexos com soluções elegantes e eficientes.</h4>
+<h4 align="left">•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 
-<h2 align="left">Sobre mim </h2>
-
-<h4>•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 ###
-
-<br clear="both">
 
 <h2 align="left">Skills</h2>
 
