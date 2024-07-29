@@ -12,6 +12,7 @@
 
 <h2 align="left">Sobre mim </h2>
 
+<h4>•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
 ###
 
 <br clear="both">
