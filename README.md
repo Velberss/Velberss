@@ -51,17 +51,17 @@
 
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://www.instagram.com/velberfernandes/" target="_blank">
+  <a href="https://www.linkedin.com/in/velber-gonçalves-3976961ab/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
+  <a href="https://www.instagram.com/velberfernandes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:goncalvesvelber.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
   </a>
 </div>
