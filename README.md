@@ -50,10 +50,22 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="https://www.instagram.com/velberfernandes/" <a href="https://www.instagram.com/velberfernandes/""/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="https://www.instagram.com/velberfernandes/"  <a href="https://www.instagram.com/velberfernandes/"/> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="https://www.instagram.com/velberfernandes/"  />
+  <!-- LinkedIn -->
+  <a href="https://www.instagram.com/velberfernandes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/seu-usuario-instagram/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+  </a>
 </div>
+
 
 ###
 
