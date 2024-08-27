@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em diversas linguagens de programação e frameworks, e adoro resolver problemas complexos com soluções elegantes e eficientes.</h4>
+<h3 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em linguagens de programação e frameworks, gosto de resolver problemas complexos com soluções elegantes e eficientes.</h4>
 
 ###
 
