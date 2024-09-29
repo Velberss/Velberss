@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência em linguagens de programação e frameworks, gosto de resolver problemas complexos com soluções elegantes e eficientes.</h4>
+<h3 align="left">Sou um desenvolvedor com grande interesse por tecnologias e programação. Tenho experiência em linguagens de programação e frameworks, gosto de resolver problemas complexos com soluções eficientes.</h4>
 
 ###
 
@@ -19,7 +19,10 @@
 
 ###
 
-<h3 align="left">•👨🏽‍💻📚 Curso Sistemas de Informação</h4>
+<h3 align="left">•📚 Curso Sistemas de Informação</h4>
+<h3 align="left">•📚 Curso Sistemas de Informação</h4>
+<h3 align="left">•📚 Curso Sistemas de Informação</h4>
+<h3 align="left">•📚 Curso Sistemas de Informação</h4>
 
 ###
 
