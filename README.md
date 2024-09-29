@@ -19,10 +19,9 @@
 
 ###
 
-<h3 align="left">•📚 Curso Sistemas de Informação</h4>
-<h3 align="left">•📚 Curso Sistemas de Informação</h4>
-<h3 align="left">•📚 Curso Sistemas de Informação</h4>
-<h3 align="left">•📚 Curso Sistemas de Informação</h4>
+<h3 align="left">•📚 Curso Sistemas de Informação </h4>
+<h3 align="left">•📫 Estudo no Campus IFMG Sabará </h4>
+
 
 ###
 
