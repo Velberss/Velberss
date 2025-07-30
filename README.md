@@ -8,14 +8,14 @@
   <tr>
     <td>
       <h3 align="left">
-        🎓 Estudante de Sistemas de Informação<br>
-        🔍 Em busca de estágio como desenvolvedor<br>
-        💡 Interesse em back-end, front-end e resolução de problemas<br>
-        🚀 Focado em aprender, evoluir e contribuir com projetos reais
+        - 🎓 Estudante de Sistemas de Informação<br>
+        - 🔍 Em busca de estágio como desenvolvedor<br>
+        - 💡 Interesse em back-end, front-end e resolução de problemas<br>
+        - 🚀 Focado em aprender, evoluir e contribuir com projetos reais
       </h3>
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="350"/>
     </td>
   </tr>
 </table>
