@@ -4,8 +4,7 @@
 ###
 
 <h3 align="left">Sou um estudante de Sistemas de Informação com grande interesse em desenvolvimento de software. Tenho experiência prática com linguagens como Java, JavaScript e Python, além de familiaridade com frameworks como Spring Boot e Node.js.
-
-Gosto de resolver problemas com soluções eficientes e bem estruturadas, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou em busca de uma oportunidade de estágio como desenvolvedor, onde eu possa aplicar meus conhecimentos, ganhar experiência profissional e contribuir com projetos reais.</h4>
+  Gosto de resolver problemas com soluções eficientes e bem estruturadas, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou em busca de uma oportunidade de estágio como desenvolvedor, onde eu possa aplicar meus conhecimentos, ganhar experiência profissional e contribuir com projetos reais.</h4>
 
 ###
 
