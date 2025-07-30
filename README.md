@@ -9,16 +9,8 @@
   💡 Interesse em back-end, front-end e resolução de problemas<br>
   🚀 Focado em aprender, evoluir e contribuir com projetos reais
 </h3>
-<h3 align="left">
-  🎓 Estudante de Sistemas de Informação<br>
-  🔍 Em busca de estágio como desenvolvedor<br>
-  💡 Interesse em back-end, front-end e resolução de problemas<br>
-  🚀 Focado em aprender, evoluir e contribuir com projetos reais
-</h3>
-
 
 ###
-
 
 ###
 
