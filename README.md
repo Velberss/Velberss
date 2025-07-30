@@ -15,7 +15,7 @@
       </h3>
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="500"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="400"/>
     </td>
   </tr>
 </table>
