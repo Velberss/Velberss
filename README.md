@@ -4,18 +4,18 @@
 ###
 
 
-<div align="left" style="display: flex; align-items: center; gap: 20px;">
-  <div>
+<div align="left">
+  <span style="display:inline-block; vertical-align: top; width: 65%;">
     <ul>
-      <li> 🎓 <strong>Estudante de Sistemas de Informação</strong></li>
-      <li> 🔍 <strong>Em busca de estágio como desenvolvedor</strong></li>
-      <li> 💡 <strong>Interesse em back-end, front-end e resolução de problemas</strong></li>
-      <li>-🚀 <strong>Focado em aprender, evoluir e contribuir com projetos reais</strong></li>
+      <li>🎓 <strong>Estudante de Sistemas de Informação</strong></li>
+      <li>🔍 <strong>Em busca de estágio como desenvolvedor</strong></li>
+      <li>💡 <strong>Interesse em back-end, front-end e resolução de problemas</strong></li>
+      <li>🚀 <strong>Focado em aprender, evoluir e contribuir com projetos reais</strong></li>
     </ul>
-  </div>
-  <div>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="350px" />
-  </div>
+  </span>
+  <span style="display:inline-block; vertical-align: top;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="200px" />
+  </span>
 </div>
 
 
