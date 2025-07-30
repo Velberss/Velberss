@@ -3,7 +3,13 @@
 
 ###
 
-<h3 align="left">Sou um desenvolvedor com grande interesse por tecnologias e programação. Tenho experiência em linguagens de programação e frameworks, gosto de resolver problemas complexos com soluções eficientes.</h4>
+<h3 align="left">Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Desde os primeiros contatos com a lógica de programação, percebi que resolver problemas com código era algo que me empolgava e me desafiava. Com o tempo, fui me aprofundando em diversas linguagens de programação e frameworks, sempre buscando escrever código limpo, escalável e eficiente.
+
+Tenho experiência prática no desenvolvimento de aplicações web e back-end, atuando em projetos individuais e em equipe. Valorizo boas práticas de engenharia de software, como versionamento com Git, testes automatizados, princípios SOLID e arquitetura limpa. Também me interesso por áreas como algoritmos, estruturas de dados e otimização de desempenho.
+
+Além da parte técnica, acredito que uma boa comunicação e trabalho colaborativo são essenciais para o sucesso de qualquer projeto. Estou sempre disposto a aprender, compartilhar conhecimento e encarar novos desafios que me tirem da zona de conforto.
+
+Atualmente, estou focado em expandir meu conhecimento em desenvolvimento full-stack e contribuir para projetos que impactem positivamente a vida das pessoas através da tecnologia.</h4>
 
 ###
 
