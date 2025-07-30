@@ -7,10 +7,10 @@
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <div>
     <ul>
-      <li>- 🎓 <strong>Estudante de Sistemas de Informação</strong></li>
-      <li>- 🔍 <strong>Em busca de estágio como desenvolvedor</strong></li>
-      <li>- 💡 <strong>Interesse em back-end, front-end e resolução de problemas</strong></li>
-      <li>- 🚀 <strong>Focado em aprender, evoluir e contribuir com projetos reais</strong></li>
+      <li> 🎓 <strong>Estudante de Sistemas de Informação</strong></li>
+      <li> 🔍 <strong>Em busca de estágio como desenvolvedor</strong></li>
+      <li> 💡 <strong>Interesse em back-end, front-end e resolução de problemas</strong></li>
+      <li>-🚀 <strong>Focado em aprender, evoluir e contribuir com projetos reais</strong></li>
     </ul>
   </div>
   <div>
