@@ -3,13 +3,9 @@
 
 ###
 
-<h3 align="left">Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Desde os primeiros contatos com a lógica de programação, percebi que resolver problemas com código era algo que me empolgava e me desafiava. Com o tempo, fui me aprofundando em diversas linguagens de programação e frameworks, sempre buscando escrever código limpo, escalável e eficiente.
+<h3 align="left">Sou um estudante de Sistemas de Informação com grande interesse em desenvolvimento de software. Tenho experiência prática com linguagens como Java, JavaScript e Python, além de familiaridade com frameworks como Spring Boot e Node.js.
 
-Tenho experiência prática no desenvolvimento de aplicações web e back-end, atuando em projetos individuais e em equipe. Valorizo boas práticas de engenharia de software, como versionamento com Git, testes automatizados, princípios SOLID e arquitetura limpa. Também me interesso por áreas como algoritmos, estruturas de dados e otimização de desempenho.
-
-Além da parte técnica, acredito que uma boa comunicação e trabalho colaborativo são essenciais para o sucesso de qualquer projeto. Estou sempre disposto a aprender, compartilhar conhecimento e encarar novos desafios que me tirem da zona de conforto.
-
-Atualmente, estou focado em expandir meu conhecimento em desenvolvimento full-stack e contribuir para projetos que impactem positivamente a vida das pessoas através da tecnologia.</h4>
+Gosto de resolver problemas com soluções eficientes e bem estruturadas, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Atualmente, estou em busca de uma oportunidade de estágio como desenvolvedor, onde eu possa aplicar meus conhecimentos, ganhar experiência profissional e contribuir com projetos reais.</h4>
 
 ###
 
