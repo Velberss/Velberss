@@ -2,8 +2,6 @@
 <h1 align="left">Olá! Eu sou Velber 👋</h1>
 
 ###
-
-
 <table>
   <tr>
     <td>
@@ -15,7 +13,7 @@
       </h3>
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="350"/>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="375"/>
     </td>
   </tr>
 </table>
