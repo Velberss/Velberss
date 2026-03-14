@@ -1,51 +1,107 @@
 
 <h1 align="left">Olá! Eu sou Velber 👋</h1>
 
-###
-<table>
-  <tr>
-    <td>
-      <h3 align="left">
-        • 🎓 Estudante de Sistemas de Informação<br>
-        • 🚀 Focado em aprender, evoluir e contribuir com projetos reais
-      </h3>
-    </td>
-    <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF4Z2NmZXJ6cnVrdzBrbGp1OHNoZmxiaTdiMWRzb2w3Z2FnaXZ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="375"/>
-    </td>
-  </tr>
-</table>
+# 👨‍💻 Velber Gonçalves
 
-###
+**Software Developer | Backend | APIs | SAP**
 
-###
+🎓 Systems Information student (7th semester) at IFMG – Brazil  
+💻 Backend development • APIs • System integration
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velberss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velberss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+# 🚀 About Me
 
-<br clear="both">
+I'm a Systems Information student with practical experience in software development, API creation and enterprise system integration.
 
-<h2 align="left">Skills</h2>
+During my internship at **NIC Labs**, I worked with backend development, data modeling using **CDS Views**, and participated in building **SAP Fiori application prototypes**.
 
-###
+I'm interested in backend development, system integration and technologies related to enterprise solutions.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-</div>
+---
+
+# 🇧🇷 Sobre mim
+
+Sou estudante de Sistemas de Informação (7º período) no IFMG – Campus Sabará.
+
+Tenho experiência prática em desenvolvimento de software, criação de APIs e integração de sistemas corporativos. Durante meu estágio na **NIC Labs** trabalhei com desenvolvimento backend, modelagem de dados utilizando **CDS Views** e construção de protótipos de aplicações **SAP Fiori**.
+
+Tenho interesse em desenvolvimento backend, integração de sistemas e tecnologias voltadas para soluções corporativas.
+
+---
+
+# 💡 Key Skills | Principais Habilidades
+
+- REST API development
+- System integration
+- Data modeling
+- Backend development
+- Git version control
+- Technical documentation
+- Team collaboration
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+---
+
+### Backend
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+
+---
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Enterprise Technologies
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![CDS](https://img.shields.io/badge/CDS%20Views-SAP-blue?style=for-the-badge)
+![Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge)
+
+---
+
+# 📌 Projects
+
+### 🦎 Reptile Guide API
+
+Backend API developed using **Node.js, Express and MySQL** to manage reptile species information.
+
+Features:
+
+- CRUD operations
+- Database integration
+- Organized routes and controllers
+- Git version control
+
+---
+
+# 📊 GitHub Stats
+
+![Velber GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark)
+
+---
+
+# 📫 Contact
+
+💼 LinkedIn: https://linkedin.com/in/seu-link  
+📧 Email: goncalvesvelber@gmail.com
 
 
 <picture align="center">
