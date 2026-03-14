@@ -75,21 +75,6 @@ Tenho interesse em desenvolvimento backend, integração de sistemas e tecnologi
 
 ---
 
-# 📌 Projects
-
-### 🦎 Reptile Guide API
-
-Backend API developed using **Node.js, Express and MySQL** to manage reptile species information.
-
-Features:
-
-- CRUD operations
-- Database integration
-- Organized routes and controllers
-- Git version control
-
----
-
 # 📊 GitHub Stats
 
 ![Velber GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark)
@@ -100,7 +85,7 @@ Features:
 
 # 📫 Contact
 
-💼 LinkedIn: https://linkedin.com/in/seu-link  
+💼 LinkedIn: https://www.linkedin.com/in/velber-fernandes/
 📧 Email: goncalvesvelber@gmail.com
 
 
