@@ -77,9 +77,7 @@ Tenho interesse em desenvolvimento backend, integração de sistemas e tecnologi
 
 # 📊 GitHub Stats
 
-![Velber GitHub stats](https://github-readme-stats.vercel.app/api?username=Velberss&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velberss&layout=compact&theme=github_dark)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Velberss&theme=github_dark)
 
 ---
 
