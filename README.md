@@ -5,28 +5,20 @@
 
 **Software Developer | Backend | APIs | SAP**
 
-🎓 Systems Information student (7th semester) at IFMG – Brazil  
+🎓 Systems Information student at IFMG – Brazil  
 💻 Backend development • APIs • System integration
 
 ---
 
 # 🚀 About Me
 
-I'm a Systems Information student with practical experience in software development, API creation and enterprise system integration.
+I'm a **Systems Information student** with practical experience in software development, backend engineering, database management, and enterprise system integration.
 
-During my internship at **NIC Labs**, I worked with backend development, data modeling using **CDS Views**, and participated in building **SAP Fiori application prototypes**.
+During my internship at **NIC Labs**, I worked with backend development, REST API development, data modeling using **SAP CDS Views**, and SAP Fiori application prototypes.
 
-I'm interested in backend development, system integration and technologies related to enterprise solutions.
+Currently, I work at **Drogaria Araujo** in the **OMS (Order Management System)** area, gaining experience with backend technologies, **Java, Spring Boot, databases, and data management**.
 
----
-
-# 🇧🇷 Sobre mim
-
-Sou estudante de Sistemas de Informação (7º período) no IFMG – Campus Sabará.
-
-Tenho experiência prática em desenvolvimento de software, criação de APIs e integração de sistemas corporativos. Durante meu estágio na **NIC Labs** trabalhei com desenvolvimento backend, modelagem de dados utilizando **CDS Views** e construção de protótipos de aplicações **SAP Fiori**.
-
-Tenho interesse em desenvolvimento backend, integração de sistemas e tecnologias voltadas para soluções corporativas.
+I'm particularly interested in backend engineering, database architecture, data solutions, and enterprise technologies.
 
 ---
 
